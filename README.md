@@ -9,7 +9,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,autocad,bash,html,css,js,figma,git,github,java,py,md,linux,mysql,ps,idea,vscode,emacs&perline=6&theme=dark)](https://skillicons.dev)
 
-## My Social Handles:
+## My Social Media Handles:
 [![Twitter Badge](https://img.shields.io/badge/-@itsmeralph09-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=itsmeralph09 "Follow on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/-RalphCustodio-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsmeralph09/)](https://www.linkedin.com/in/itsmeralph09/)
 [![Gmail Badge](https://img.shields.io/badge/-ralphenigmatic@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ralphenigmatic@gmail.com)](mailto:ralphenigmatic@gmail.com)

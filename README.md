@@ -1,9 +1,9 @@
 # Hi There 👋
 ## About Me:
-  I am Ralph Custodio, also known as _itsmeralph09_ in the internet space. I'm currently pursuing Bachelor of Science in Information Technology, and I'm on my 3rd year college. I am a technology enthusiast and an advocate of open source software.
- - I’m currently learning Front-end Development.
- - I love open source software.
- - I also love contributing into different open source software projects.
+  I'm Ralph Custodio, also known on the internet as _itsmeralph09_. I'm currently studying for a Bachelor of Science in Information Technology, and I'm in my third year college. I am a technology enthusiast who supports open source software projects.
+- I'm learning Front-end Development, right now.
+- I am a big fan of open source software.
+- I also enjoy contributing to various open source software projects.
 
 ## My Current Technologies:
 

@@ -17,5 +17,5 @@
 
 ## My Github Statistics:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsmeralph09&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=itsmeralph09&count_private=true&show_icons=true&include_all_commits=true&theme=dark&show_owner=true&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeralph09&hide=TeX&layout=compact&theme=dark&langs_count=10)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=itsmeralph09&count_private=true&show_icons=true&include_all_commits=true&theme=dark&show_owner=true&hide=stars&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeralph09&hide=TeX&layout=compact&theme=dark&langs_count=10&hide_border=true)

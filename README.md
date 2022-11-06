@@ -16,5 +16,5 @@
 [![Telegram Badge](https://img.shields.io/badge/-@GabiBee-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/GabiBee "Contact on Telegram")
 
 ## My Github Statistics:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsmeralph09&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsmeralph09&theme=nord&hide_border=true)](https://git.io/streak-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=itsmeralph09&count_private=true&show_icons=true&include_all_commits=true&theme=dark&show_owner=true&hide_border=true)
